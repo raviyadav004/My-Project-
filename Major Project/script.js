@@ -1,4 +1,4 @@
-const API_KEY = '4f81cc1d15de45d785082423252302';
+const API_KEY = ' Enter Your API Key Here ';
 let tempChartInstance = null;
 let humidityChartInstance = null;
 
